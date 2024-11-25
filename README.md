@@ -1,0 +1,2 @@
+# staticwebsite
+Docker Static Website
